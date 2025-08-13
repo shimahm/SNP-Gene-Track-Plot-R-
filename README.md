@@ -173,8 +173,8 @@ If this script helps your research, please cite this repository and the R packag
 
 ## License
 
-MIT — see LICENSE. Feel free to adapt for your lab or project.
+MIT
 
 ---
 
-If you want, you can also add a minimal `LICENSE` file and a tiny demo image to the README.
+
